@@ -8,3 +8,6 @@ https://stackoverflow.com/questions/2583644/difference-between-background-and-co
 
 
 >  pause time of a GC is proportional to how much this GC survived, in other words, proportional to what you see in the Promoted MB
+
+GC Maoni:  
+https://learn.microsoft.com/en-us/shows/defrag-tools/33-clr-gc-part-1
