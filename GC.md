@@ -11,3 +11,7 @@ https://stackoverflow.com/questions/2583644/difference-between-background-and-co
 
 GC Maoni:  
 https://learn.microsoft.com/en-us/shows/defrag-tools/33-clr-gc-part-1
+https://learn.microsoft.com/en-us/shows/defrag-tools/34-clr-gc-part-2
+
+Vance Morrison
+https://learn.microsoft.com/en-us/shows/defrag-tools/125-perfview-part-8
